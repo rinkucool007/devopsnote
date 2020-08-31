@@ -8,3 +8,7 @@ https://stackoverflow.com/questions/48363217/execute-jenkins-pipeline-step-only-
 
 
 https://github.com/MirandaRompoti/Learning/blob/d649654930e632f0d8f03b4c54ddfd204fa273a1/ForLoops/CI/Jenkins/README.md
+
+
+
+https://stackoverflow.com/questions/7911620/using-the-nexus-rest-api-to-get-latest-artifact-version-for-given-groupid-artifa
