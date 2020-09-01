@@ -12,3 +12,25 @@ https://github.com/MirandaRompoti/Learning/blob/d649654930e632f0d8f03b4c54ddfd20
 
 
 https://stackoverflow.com/questions/7911620/using-the-nexus-rest-api-to-get-latest-artifact-version-for-given-groupid-artifa
+
+----------------------------------------------------
+# Delete Old Builds :
+https://gist.github.com/pkouman/c987ce8cd622820cce9111ea34662c6b
+MAX_BUILDS = 10 // max builds to keep
+
+def jobs = Jenkins.instance.items;
+
+for (job in jobs) {
+    println "Job: " + job.name
+    def recent = job.builds.limit(MAX_BUILDS)
+    println "Recent Builds: "  + recent
+    println "============================="
+    for (build in job.builds) {
+        if (!recent.contains(build) && !build.isBuilding()) {
+            println "Deleting: " + build
+            build.delete()
+            println ""
+        }
+    }
+}
+--------------------------------------------------------
