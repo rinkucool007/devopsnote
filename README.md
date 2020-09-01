@@ -38,3 +38,6 @@ for (job in jobs) {
 https://medium.com/@dheerajgambhir/how-to-discard-jenkins-old-builds-from-project-or-pipeline-e2888306a2b6
 
 https://superuser.com/questions/589528/how-do-i-delete-the-builds-11-to-1717-in-jenkins
+
+
+https://support.cloudbees.com/hc/en-us/articles/215549798-Best-Strategy-for-Disk-Space-Management-Clean-Up-Old-Builds
