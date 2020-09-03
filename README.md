@@ -41,3 +41,21 @@ https://superuser.com/questions/589528/how-do-i-delete-the-builds-11-to-1717-in-
 
 
 https://support.cloudbees.com/hc/en-us/articles/215549798-Best-Strategy-for-Disk-Space-Management-Clean-Up-Old-Builds
+
+
+------------------------------------------------------------------
+Jenkins Configuration as Code
+
+
+https://www.jenkins.io/projects/jcasc/#:~:text=Jenkins%20Configuration%20as%20Code%20provides,in%20a%20fully%20reproducible%20way.
+
+https://github.com/jenkinsci/configuration-as-code-plugin
+
+https://opensource.com/article/20/4/jcasc-jenkins
+
+https://devops.com/using-jenkins-configuration-as-code/
+
+https://www.praqma.com/stories/start-jenkins-config-as-code/
+
+https://medium.com/preply-engineering/jenkins-omg-275e2df5d647
+
