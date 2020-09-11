@@ -64,3 +64,23 @@ ELK Dashboard :
 
 http://www.tp1rc.edu.tw/tpnet2016/training/10513.pdf?bcsi_scan_efc4f2ce7d38798c=0&bcsi_scan_filename=10513.pdf
 
+
+sites :
+
+https://www.deploycontainers.com/
+
+https://wilsonmar.github.io/jenkins2-pipeline/
+
+http://grokdebug.herokuapp.com/
+
+https://docs.openstack.org/infra/jenkins-job-builder/
+
+https://codewithharry.com/videos/
+
+https://www.learnitguide.net/
+
+https://8gwifi.org/docs/kube-dash.jsp
+
+https://gradle-ssh-plugin.github.io/docs/
+
+
