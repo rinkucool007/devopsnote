@@ -59,3 +59,8 @@ https://www.praqma.com/stories/start-jenkins-config-as-code/
 
 https://medium.com/preply-engineering/jenkins-omg-275e2df5d647
 
+
+ELK Dashboard :
+
+http://www.tp1rc.edu.tw/tpnet2016/training/10513.pdf?bcsi_scan_efc4f2ce7d38798c=0&bcsi_scan_filename=10513.pdf
+
