@@ -84,3 +84,5 @@ https://8gwifi.org/docs/kube-dash.jsp
 https://gradle-ssh-plugin.github.io/docs/
 
 
+https://mohamicorp.atlassian.net/wiki/spaces/DOC/pages/136740885/Triggering+Jenkins+Based+on+New+Tags
+
