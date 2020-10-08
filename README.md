@@ -86,3 +86,24 @@ https://gradle-ssh-plugin.github.io/docs/
 
 https://mohamicorp.atlassian.net/wiki/spaces/DOC/pages/136740885/Triggering+Jenkins+Based+on+New+Tags
 
+
+# setup java
+
+JAVA_HOME=/usr/lib/java/jdk1.8.0_221
+
+PATH=$PATH:$HOME/bin:$JAVA_HOME/bin
+
+export JAVA_HOME
+
+export PATH
+
+sudo update-alternatives --install "/usr/bin/javac" "javac" "/usr/lib/java/jdk1.8.0_221/bin/javac" 1
+
+sudo update-alternatives --install "/usr/bin/java" "java" "/usr/lib/java/jdk1.8.0_221/bin/java" 1
+
+sudo update-alternatives --set java /usr/lib/java/jdk1.8.0_221/bin/java
+
+sudo update-alternatives --set javac /usr/lib/java/jdk1.8.0_221/bin/javac
+
+/usr/java/jdk1.8.0_162/bin/javac
+
