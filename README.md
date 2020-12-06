@@ -107,3 +107,9 @@ sudo update-alternatives --set javac /usr/lib/java/jdk1.8.0_221/bin/javac
 
 /usr/java/jdk1.8.0_162/bin/javac
 
+
+# Create Project with Option
+
+https://blog.bitsrc.io/build-a-select-options-for-the-terminal-using-nodejs-e2d699cc85fe
+
+
